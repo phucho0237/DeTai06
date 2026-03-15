@@ -136,7 +136,7 @@ void tiepNhanHoSo()
 	UngVien uv;
 
 	printf("Nhap ho ten ung vien: ");
-	scanf("%s", uv.hoTenUV);
+	scanf(" %30[^\n]", uv.hoTenUV);
 
 	printf("Nhap ngay sinh (ddmmyyyy): ");
 	scanf("%d", &uv.ngaySinh);

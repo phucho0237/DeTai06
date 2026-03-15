@@ -273,7 +273,7 @@ void themNhanVien()
 	if (!kiemTraMaNV(nv.maNV)) return; // dung neu ma bi trung
 
 	printf("Nhap ho ten: ");
-	scanf("%s", nv.hoTenNV);
+	scanf(" %30[^\n]", nv.hoTenNV);
 
 	printf("Nhap ngay sinh (ddmmyyyy): ");
 	scanf("%d", &nv.ngaySinh);
