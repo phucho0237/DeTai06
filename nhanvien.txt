@@ -1,0 +1,3 @@
+NV001|NguyenVanA|19111995|Nam|2.3|NhanVien|P01
+NV002|TranThiB|05011990|Nu|2.8|TruongPhong|P02
+NV003|LeVanC|19041988|Nam|3.0|KySu|P03

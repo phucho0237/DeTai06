@@ -1,0 +1,3 @@
+P01|KeToan|2.5|10
+P02|NhanSu|2.2|8
+P03|KyThuat|3.0|15
